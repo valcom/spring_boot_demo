@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: vcompagnone01
+Build-Jdk: 19.0.1
+Implementation-Title: Spring Boot Docker Blank Project (from https://git
+ hub.com/making/spring-boot-docker-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: demo
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.spring_boot.App
+Created-By: Maven Integration for Eclipse
+
