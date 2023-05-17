@@ -1,5 +1,4 @@
-FROM eclipse-temurin:8-jre
-
+FROM eclipse-temurin:17.0.7_7-jre-alpine
 RUN mkdir /opt/app
 COPY target/spring-boot.jar /opt/app
 EXPOSE 8080
